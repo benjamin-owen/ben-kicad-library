@@ -24,3 +24,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Unlicensed 3D models
+3Dmodels_NOLICENSE
