@@ -1,2 +1,2 @@
 # ben-kicad-library
-KiCAD symbol and footprint libraries used in my projects
+KiCAD symbol and footprint libraries I've created for various projects
