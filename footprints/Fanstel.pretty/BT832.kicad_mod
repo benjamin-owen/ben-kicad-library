@@ -68,13 +68,224 @@
 	)
 	(attr smd)
 	(fp_line
+		(start 0 -0.5)
+		(end -0.9 -0.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "42e2eaa6-3399-4e19-b2bb-2de266303e76")
+	)
+	(fp_line
+		(start 0 -0.5)
+		(end 0 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "78e7fb6f-86b8-497b-9e97-bf88853368f5")
+	)
+	(fp_line
+		(start 0 0.5)
+		(end 0 0.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "477b41fa-f998-41c4-951d-0656641c06cb")
+	)
+	(fp_line
+		(start 0 1.6)
+		(end 0 1.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a6466b99-678e-4160-8671-f0c71e476a5b")
+	)
+	(fp_line
+		(start 0 2.7)
+		(end 0 2.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f3270a5f-e7be-49ba-a551-b87f7ffa39c3")
+	)
+	(fp_line
+		(start 0 3.8)
+		(end 0 3.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4709961a-a8b0-438d-954d-d85a67306de3")
+	)
+	(fp_line
+		(start 0 4.9)
+		(end 0 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dbb4439f-6096-4922-ae78-e3cf432df3c2")
+	)
+	(fp_line
+		(start 0 6)
+		(end 0 6.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5b99773f-7f5d-48be-a4c4-e759332d6c48")
+	)
+	(fp_line
+		(start 0 7.1)
+		(end 0 7.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "49ce4267-aba9-45af-b9c5-4d57a6b81629")
+	)
+	(fp_line
+		(start 0 8.2)
+		(end 0 8.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "75523510-5e2e-4351-a7a8-15110b2f5daa")
+	)
+	(fp_line
+		(start 0 8.8)
+		(end 14 8.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c15b9f08-389b-48cd-ade0-9639b1a7d2de")
+	)
+	(fp_line
+		(start 14 -0.5)
+		(end 14 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "eaf164e2-0c83-438d-8dad-9f63b399dd45")
+	)
+	(fp_line
+		(start 14 0.5)
+		(end 14 0.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d3441e7c-c709-4999-9cb1-3625e044da5c")
+	)
+	(fp_line
+		(start 14 1.6)
+		(end 14 1.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "320d62ad-474a-49e6-aae0-14f92519a04a")
+	)
+	(fp_line
+		(start 14 2.7)
+		(end 14 2.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2d7b44ef-ad83-400a-9db0-4abcf559a9bf")
+	)
+	(fp_line
+		(start 14 3.8)
+		(end 14 3.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7a4b6194-3333-4916-aa1a-f3a4c96c9dd6")
+	)
+	(fp_line
+		(start 14 4.9)
+		(end 14 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f4a13891-eb07-4d1b-803a-5f55d8d6a56d")
+	)
+	(fp_line
+		(start 14 6)
+		(end 14 6.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bf000eaf-c1c9-432f-b1b3-dffbe6e488f1")
+	)
+	(fp_line
+		(start 14 7.1)
+		(end 14 7.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "01a162be-7531-4a4e-b802-d6c6202c5420")
+	)
+	(fp_line
+		(start 14 8.8)
+		(end 14 8.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "03c295f0-8d6d-4e81-8d7d-9e6864210978")
+	)
+	(fp_rect
+		(start -1 -7.3)
+		(end 15 8.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "ebcf6292-f95d-48ea-b8cb-312e3cba7f9b")
+	)
+	(fp_line
 		(start 0 -1.2)
 		(end 14 -1.2)
 		(stroke
 			(width 0.1)
 			(type dash)
 		)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "aa8ff39b-b6d3-402c-bda3-70acb095c367")
 	)
 	(fp_rect
@@ -85,13 +296,13 @@
 			(type default)
 		)
 		(fill none)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "c3e0ea9f-2705-4613-8291-0694636d676f")
 	)
 	(fp_text user "ANTENNA"
 		(at 7 -4.2 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "a65d25f9-3693-4e4a-8160-daf386cd80fc")
 		(effects
 			(font
