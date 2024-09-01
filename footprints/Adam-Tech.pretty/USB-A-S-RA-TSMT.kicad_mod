@@ -1,0 +1,240 @@
+(footprint "USB-A-S-RA-TSMT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 10.6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "72a8916b-7cef-4365-98e2-00bf790136d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "USB-A-S-RA-TSMT"
+		(at 0 12.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2850dc72-128a-4637-8a3c-c3d49db1a40c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Adam-Tech:USB-A-S-RA-TSMT"
+		(at 0 11.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e147b5a-9a88-45b2-98de-fa16d6e81c9f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/195862/usb-a-s-ra-tsmt-data-sheet.pdf"
+		(at 0 11.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6fa19771-e57f-4cdb-8c08-36412b8b6c3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "USB-A (USB TYPE-A) USB 2.0 Receptacle Connector 4 Position Surface Mount, Right Angle"
+		(at 0 11.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1eb16cdf-2f6a-45ac-aa81-b829066eb52c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.6 0.8)
+		(end -6.6 9.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "aebb093e-1283-4f2a-9fd1-d70ac56b4ddd")
+	)
+	(fp_line
+		(start -6.6 9.6)
+		(end 6.6 9.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e4ad2cfa-a084-4456-866f-bc376da739e9")
+	)
+	(fp_line
+		(start -5.8 -4.3)
+		(end -4.1 -4.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3d242594-5262-4af3-bc64-6e76c4ea7339")
+	)
+	(fp_line
+		(start -2.9 -4.3)
+		(end -1.6 -4.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5c70da80-bba6-4343-adfe-4c8a7129d8ae")
+	)
+	(fp_line
+		(start -0.4 -4.3)
+		(end 0.4 -4.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fc6e1d9e-58f7-4dc3-8332-b6eb9f25f567")
+	)
+	(fp_line
+		(start 1.6 -4.3)
+		(end 2.9 -4.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "449448fb-4e5b-463e-8462-49a7abb09ce2")
+	)
+	(fp_line
+		(start 4.1 -4.3)
+		(end 5.8 -4.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "108a7779-dbb2-42b5-8f02-80e783f3cd31")
+	)
+	(fp_line
+		(start 6.6 9.6)
+		(end 6.6 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dbe5bef5-9d08-4f61-83eb-7540cc9df268")
+	)
+	(fp_rect
+		(start -8.6 -4.6)
+		(end 8.6 9.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "8d5b6e53-29de-4f53-acf3-386fd926eced")
+	)
+	(fp_rect
+		(start -6.55 -4.25)
+		(end 6.55 9.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "e2988777-ab4c-438b-8803-ab652a67bb7c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 13.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "89acd85b-4b6e-4883-b3a5-46c1c6eb4048")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -2.5 0)
+		(size 1.3 1.3)
+		(drill 1.3)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "8ae1cdae-85e7-4357-9c25-637a431d3c50")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.5 0)
+		(size 1.3 1.3)
+		(drill 1.3)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "944cd6b6-5349-427f-a132-51282e1add2c")
+	)
+	(pad "1" smd rect
+		(at -3.5 -4.2)
+		(size 0.9 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "55fa2f1e-6e13-4ab2-bf7b-8b8d0bda77ba")
+	)
+	(pad "2" smd rect
+		(at -1 -4.2)
+		(size 0.9 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "96b78847-a05f-4df5-a85e-3af823998c5f")
+	)
+	(pad "3" smd rect
+		(at 1 -4.2)
+		(size 0.9 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "ddbe8c80-c2b3-4326-9361-b8705e56ce2c")
+	)
+	(pad "4" smd rect
+		(at 3.5 -4.2)
+		(size 0.9 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "c4b8a720-014a-4390-9727-4721071c6c0b")
+	)
+	(pad "5" smd rect
+		(at -7.25 -2)
+		(size 2.5 5.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "47ed2058-c91c-4450-b3af-c9d00f215f43")
+	)
+	(pad "5" smd rect
+		(at 7.25 -2)
+		(size 2.5 5.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b16e8e43-8316-48da-8766-da077e49dfe0")
+	)
+)
